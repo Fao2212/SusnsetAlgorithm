@@ -1,0 +1,4 @@
+﻿  Assembling ..\..\..\..\..\..\TASM\BIN2\sunsetAlgo.asm...
+..\..\..\..\..\..\TASM\BIN2\sunsetAlgo.asm(7): error A2006: undefined symbol : RCX
+..\..\..\..\..\..\TASM\BIN2\sunsetAlgo.asm(8): error A2006: undefined symbol : RAX
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: El comando "ml.exe /c /nologo /Zi /Fo"Debug\sunsetAlgo.obj" /W3 /errorReport:prompt  /Ta..\..\..\..\..\..\TASM\BIN2\sunsetAlgo.asm" salió con el código 1.
